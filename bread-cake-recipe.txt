@@ -1,0 +1,5 @@
+bread
+milk
+sugar
+kakao
+etc
